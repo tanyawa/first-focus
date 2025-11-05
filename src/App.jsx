@@ -87,7 +87,7 @@ const ContactPage = () => (
       <h1 className="text-4xl font-bold mb-8">Contact Us</h1>
       <p className="text-lg text-muted-foreground">
         Gmail: tci.allforone@gmail.com <br />
-        Phone: +66 82-498-2642
+        Phone: +66 82-498-2642 <br />
         location: กรุงเทพมหานคร ประเทศไทย
       </p>
     </div>
